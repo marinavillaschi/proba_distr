@@ -1,6 +1,6 @@
 # proba_distr package
 
-A Python package for probability distributions such as:
+A Python [package](https://pypi.org/project/proba-distr/) for probability distributions such as:
 
 - Gaussian distribution (aka Normal distribution)
 - Binomial distribution

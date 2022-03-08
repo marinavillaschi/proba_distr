@@ -8,11 +8,11 @@ A Python package for probability distributions such as:
 
 # Files
 
-[GeneralDistribution](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/GeneralDistribution.py) is a class for calculating and visualizing a probability distribution.
+[GeneralDistribution.py](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/GeneralDistribution.py) is a class for calculating and visualizing a probability distribution.
 
-[GaussianDistribution](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/GaussianDistribution.py) is a class inherited from GeneralDistribution for calculating and visualizing a Gaussian distribution.
+[GaussianDistribution.py](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/GaussianDistribution.py) is a class inherited from GeneralDistribution for calculating and visualizing a Gaussian distribution.
 
-[BinomialDistribution](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/BinomialDistribution.py) is a class inherited from GeneralDistribution for calculating and visualizing a Binomial distribution.
+[BinomialDistribution.py](https://github.com/marinavillaschi/proba_distr/blob/master/proba_distr/BinomialDistribution.py) is a class inherited from GeneralDistribution for calculating and visualizing a Binomial distribution.
 
 
 # Installation

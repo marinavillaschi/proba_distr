@@ -1,0 +1,6 @@
+venv_distributions
+proba_distr.egg-info
+build
+dist
+__pycache__
+*.cfg

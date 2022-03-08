@@ -17,8 +17,6 @@ A Python package for probability distributions such as:
 
 # Installation
 
-`git clone https://github.com/marinavillaschi/proba_distr`
-
 `pip install proba_distr`
 
 # Testing
